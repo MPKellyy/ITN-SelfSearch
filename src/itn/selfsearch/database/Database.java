@@ -222,7 +222,7 @@ public class Database implements Cloneable{
         boolean  productFound = false;
 
         for(Product product: productCatalogue){
-            if(product.getProductName().compareTo(inputName) == 0){
+            if(product.getProductName().toLowerCase().compareTo(inputName.toLowerCase()) == 0){
                 productFound = true;
             }
         }

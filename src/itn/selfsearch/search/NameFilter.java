@@ -24,7 +24,7 @@ public class NameFilter
         for(Product product: d.getProductCatalogue())
         {
             // When we find it we put the product into P then return it
-            if(product.getProductName().compareTo(inputName) == 0)
+            if(product.getProductName().toLowerCase().compareTo(inputName.toLowerCase()) == 0)
             {
                     p = product;
                     break;

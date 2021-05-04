@@ -15,8 +15,8 @@
     {
       "productName": "Root Beer",
       "productPrice": 3.99,
-      "productLocationX": "8",
-      "productLocationY": "7",
+      "productLocationX": "7",
+      "productLocationY": "6",
       "productTags": [
         "Drink",
         "Carbonated",
@@ -27,8 +27,8 @@
     {
       "productName": "Coke",
       "productPrice": 3.99,
-      "productLocationX": "8",
-      "productLocationY": "8",
+      "productLocationX": "6",
+      "productLocationY": "6",
       "productTags": [
         "Drink",
         "Carbonated",
@@ -39,7 +39,7 @@
     {
       "productName": "Apple",
       "productPrice": 1.99,
-      "productLocationX": "9",
+      "productLocationX": "11",
       "productLocationY": "1",
       "productTags": [
         "Red",
@@ -50,8 +50,8 @@
     {
       "productName": "Banana",
       "productPrice": 0.99,
-      "productLocationX": "9",
-      "productLocationY": "2",
+      "productLocationX": "10",
+      "productLocationY": "3",
       "productTags": [
         "Yellow",
         "Fruit",
@@ -61,19 +61,19 @@
     {
       "productName": "Blueberries",
       "productPrice": 3.44,
-      "productLocationX": "9",
-      "productLocationY": "3",
+      "productLocationX": "11",
+      "productLocationY": "5",
       "productTags": [
         "Food",
         "Fruit",
-        "Blue",
+        "Blue"
       ]
     },
     {
       "productName": "Cheese Pizza",
       "productPrice": 7.99,
-      "productLocationX": "1",
-      "productLocationY": "2",
+      "productLocationX": "5",
+      "productLocationY": "6",
       "productTags": [
         "Yellow",
         "Food",
@@ -83,8 +83,8 @@
     {
       "productName": "Pepperoni Pizza",
       "productPrice": 9.99,
-      "productLocationX": "1",
-      "productLocationY": "3",
+      "productLocationX": "4",
+      "productLocationY": "6",
       "productTags": [
         "Yellow",
         "Food",
@@ -95,8 +95,8 @@
     {
       "productName": "Meat Balls",
       "productPrice": 5.99,
-      "productLocationX": "1",
-      "productLocationY": "4",
+      "productLocationX": "7",
+      "productLocationY": "5",
       "productTags": [
         "Brown",
         "Food",
@@ -106,8 +106,8 @@
     {
       "productName": "Bread",
       "productPrice": 2.99,
-      "productLocationX": "1",
-      "productLocationY": "9",
+      "productLocationX": "7",
+      "productLocationY": "4",
       "productTags": [
         "Soft",
         "Food"
@@ -116,8 +116,8 @@
     {
       "productName": "Milk",
       "productPrice": 1.99,
-      "productLocationX": "4",
-      "productLocationY": "4",
+      "productLocationX": "7",
+      "productLocationY": "3",
       "productTags": [
         "Food",
         "Cold",
@@ -128,8 +128,8 @@
     {
       "productName": "Orange Juice",
       "productPrice": 3.99,
-      "productLocationX": "4",
-      "productLocationY": "5",
+      "productLocationX": "7",
+      "productLocationY": "6",
       "productTags": [
         "Food",
         "Cold",
@@ -163,8 +163,8 @@
     {
       "productName": "TCL 50 inch TV",
       "productPrice": 299.99,
-      "productLocationX": "7",
-      "productLocationY": "5",
+      "productLocationX": "8",
+      "productLocationY": "6",
       "productTags": [
         "Electronic",
         "Smart TV",
@@ -187,15 +187,15 @@
     {
       "productName": "Playstation 5",
       "productPrice": 549.99,
-      "productLocationX": "7",
-      "productLocationY": "8",
+      "productLocationX": "8",
+      "productLocationY": "6",
       "productTags": [
         "Electronic",
         "White",
         "Console",
         "Gaming"
       ]
-    },
+    }
   ],
 
   "adminPasswords": [
@@ -230,7 +230,7 @@
     "4K",
     "Flat Screen",
     "Console",
-    "Gaming",
+    "Gaming"
   ],
 
   "kioskLocationX": "8",

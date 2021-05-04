@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"itn.selfsearch.core"},{"l":"itn.selfsearch.database"},{"l":"itn.selfsearch.map"},{"l":"itn.selfsearch.search"}];updateSearchResults();
